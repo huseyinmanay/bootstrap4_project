@@ -24,11 +24,3 @@ A simple and modern portfolio website built with Bootstrap 4.
 1. Clone or download the repository
 2. Open `index.html` in your web browser
 3. No additional setup required as all dependencies are loaded via CDN
-
-## Developer
-
-Darya Zhukova (Darya.Zhukova@my-aolcc.com)
-
-## License
-
-© 2025 Darya Zhukova. All rights reserved. 
